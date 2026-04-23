@@ -1,0 +1,13 @@
+[book]
+title = "Learn Python, Zig & Bug Hunting"
+authors = ["Gh0sT4n"]
+language = "id"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+site-url = "/learn/"
+git-repository-url = "https://github.com/T4n-Labs/learn"
+edit-url-template = "https://github.com/T4n-Labs/learn/edit/main/{path}"
