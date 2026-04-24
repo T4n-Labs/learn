@@ -39,5 +39,6 @@ Kalau cuma mau coba-coba — bakal ketinggalan.
 - Fokus: **skill + mindset**
 
 ---
-* @T4n-Labs
-* @Gh0sT4n
+
+* @[T4n-Labs](https://github.com/T4n-Labs)
+* @[Gh0sT4n](https://github.com/gh0st4n)
